@@ -8,3 +8,9 @@ export 'movies/movies_slideshow.dart';
 export 'shared/custom_botton_navigation.dart';
 
 
+
+export 'movies/movie_masonry.dart';
+
+export 'movies/movie_poster_link.dart';
+
+
